@@ -9,7 +9,7 @@
 
 An API, or application programming interface, is a manner in which companies and
 organizations, like Twitter or the New York City government, expose their data
-and/or functionality to the public (i.e. talented programmers like yourself) for
+and/or functionality to the public (i.e. talented programmers like yourself) for 
 use. APIs allow us to add important data and functionality to the applications
 we build. Here's just a few examples of some of the cool things you can do by
 using APIs:
